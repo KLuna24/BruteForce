@@ -1,12 +1,18 @@
 # BruteForce 
-Python Sha1 Cracker. GSU 4980 
+Python Sha1 Cracker. 
+
+GSU 4980 - Blockchain & Applications
 
 Author: Kevin Luna 
 
 # How to run the program 
 Must have python 2.7 already installed on your computer. 
 
-run the command `python CrackHash.py enterhashhere`  
+run the command `python CrackHash.py enterhashhere` in terminal.
+
+example run `python CrackHash.py  b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3`.
+
+Also, make sure the .txt file is in the same directory as the python program.
 
 # Assignment Questions and Solutions 
 
