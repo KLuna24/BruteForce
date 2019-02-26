@@ -5,7 +5,6 @@
 @author: Kevin Luna
 GSU 4980
 
-https://github.com/KLuna24/BruteForce
 
 """
 
